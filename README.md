@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I Don't LOVE PRINTF!!
-=======
-I LOVE PRIN!!
->>>>>>> Magd
+I LOVE PRINTF So Much!!
